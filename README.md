@@ -56,4 +56,4 @@ npm run test
 
 👤 **Adejoro Samson**
 
-- Github: [@rammyblog](https://github.com/adejorosam)
+- Github: [@adejorosam](https://github.com/adejorosam)
